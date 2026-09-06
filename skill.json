@@ -1,0 +1,12 @@
+{
+  "name": "genpark-ragas-faithfulness-answer-relevance-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Calculates RAG faithfulness ratios, context claim grounding and semantic answer relevance metrics.",
+  "category": "AI Synthetic Data & Hallucination Benchmarks",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-ragas-faithfulness-answer-relevance-evaluator-skill",
+  "verified": true,
+  "stars": 8
+}
